@@ -1,8 +1,8 @@
 # MI
 电商主页
 
-项目名称：TRIMOVIE (微信小程序)
-Git 仓库：https://github.com/watalidaoli/weixin
-项目技术：weixin+vant
-项目描述：	这是一个查看热门电影的微信小程序，可以观看电影详情和评论+上传图片，
-			在我的电影列表中可以查看到最新的评论
+项目名称：MI商城
+项目地址：http://mimi.applinzi.com/mi
+Git 仓库：https://github.com/watalidaoli/MI
+项目技术：jQuery+CSS3
+项目描述：通过jQuery和CSS实现经典的电商网站主页布局，侧边栏展开+商品卡片布局
