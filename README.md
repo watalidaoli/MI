@@ -3,7 +3,7 @@
 
 项目名称：MI商城
 
-项目地址：http://mimi.applinzi.com/mi
+项目地址：http://mimi.applinzi.com/mi/
 
 Git 仓库：https://github.com/watalidaoli/MI
 
